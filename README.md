@@ -6,5 +6,4 @@
 - 🍂 Specifically learning C programming language
 - 💞️ I’m looking forward to learn more by collaborating in various new projects.
   
- !(Some glimpse of the pictures of FAST karachi campus I captured)[https://mail.google.com/mail/u/0?ui=2&ik=dffbe1f121&attid=0.1&permmsgid=msg-a:r-8840806409517440786&th=191b17390087cfd9&view=att&disp=safe&realattid=191b172bffe47306f0f1]
- 
+ !(Some glimpse of the pictures of FAST karachi campus I captured)![20240830_155003](https://github.com/user-attachments/assets/f588cd41-1007-4c47-9f22-0ee75e62c1e5)
