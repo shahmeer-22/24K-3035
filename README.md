@@ -3,7 +3,7 @@
 - 📷 I love to capture every moment of life.
 - 👨‍💻 I’m also interested in Web Devolopment.
 - 🍁 I’m currently studying Software Engineering from FAST nuces.
-- 🍂 Specifically learning C programming language
+- 🍂 Specifically learning C and JAVA programming language
 - 💞️ I’m looking forward to learn more by collaborating in various new projects.
 
  ## PICTURE IS THE THING I CHANGED (replaced previous one with the other one I captured)
